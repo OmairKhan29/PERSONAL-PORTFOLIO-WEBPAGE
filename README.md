@@ -46,8 +46,12 @@ The design combines subtle animations with performance-aware scroll behavior to 
 
 ## Outputs
 
-Landing Page 
-About Section 
-Skill Section 
-Project Section 
-Contact Section 
+Landing Page <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9e8c86df-175b-4809-bf60-ac0a7d7166b3" />
+
+About Section <img width="1919" height="626" alt="Image" src="https://github.com/user-attachments/assets/b42b1a06-795f-410c-93e2-06d1120dd33d" />
+
+Skill Section <img width="1919" height="641" alt="Image" src="https://github.com/user-attachments/assets/5a212db5-51cc-4a85-98cc-4ba1c15939f5" />
+
+Project Section <img width="1919" height="948" alt="Image" src="https://github.com/user-attachments/assets/76c0acaa-9e8c-4862-9aaa-011cbf88ab5c" />
+
+Contact Section <img width="1886" height="1061" alt="Image" src="https://github.com/user-attachments/assets/0d24b78e-9b95-4942-86b9-647863fffefc" />
